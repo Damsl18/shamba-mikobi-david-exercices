@@ -1,0 +1,19 @@
+2026-03-27 19:54:37,447 - WARNING - Echec d'authentification
+2026-03-27 19:54:37,451 - INFO - tentative restante: 2
+2026-03-27 19:54:43,359 - WARNING - Echec d'authentification
+2026-03-27 19:54:43,359 - INFO - tentative restante: 1
+2026-03-27 19:54:44,378 - WARNING - Echec d'authentification
+2026-03-27 19:54:44,378 - INFO - tentative restante: 0
+2026-03-27 19:54:44,378 - WARNING - Trop de tentative, Accès refusé
+2026-03-27 21:17:01,970 - WARNING - failed login
+2026-03-27 21:17:01,971 - INFO - tentative restante: 2
+2026-03-27 21:17:02,468 - WARNING - failed login
+2026-03-27 21:17:02,468 - INFO - tentative restante: 1
+2026-03-27 21:17:04,858 - INFO - Accès autorisé
+2026-03-30 14:12:37,961 - WARNING - failed login
+2026-03-30 14:12:37,964 - INFO - tentative restante: 2
+2026-03-30 14:12:39,127 - WARNING - failed login
+2026-03-30 14:12:39,127 - INFO - tentative restante: 1
+2026-03-30 14:12:40,982 - WARNING - failed login
+2026-03-30 14:12:40,982 - INFO - tentative restante: 0
+2026-03-30 14:12:40,982 - WARNING - Trop de tentative, Accès refusé
