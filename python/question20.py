@@ -7,7 +7,6 @@ def analyse ( dossier ):
     bestTaille = 0.0
     plusGros = ""
     total = 0.0
-
     for file in os.listdir(dossier):
         path = os.path.join(dossier, file)
         if os.path.isfile(path):

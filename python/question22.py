@@ -16,5 +16,4 @@ def ReseauSimple(liste):
                 file.write(f"\nAdress: {ip}")
         except ValueError:
             print(f"Address: {address} est invalide")
-
 ReseauSimple(liste)
